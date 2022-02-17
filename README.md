@@ -1,10 +1,6 @@
-# mkgqa
-Multilingual Question Answering over Knowledge Graphs: materials, methods, benchmarking
+# WWW'22 conference paper: "Can Machine Translation be a Reasonable Alternative for Multilingual Question Answering Systems over Knowledge Graphs?"
 
-## High-level research questions
-
-* Can Machine Translation be a Reasonable Alternative for Multilingual Question Answering Systems over Knowledge Graphs?
-
+## TLDR
 
 ## Evaluation - Native Language
 
@@ -149,3 +145,11 @@ Multilingual Question Answering over Knowledge Graphs: materials, methods, bench
 * fr-en http://gerbil-qa.aksw.org/gerbil/experiment?id=202111150030
 * ba-en http://gerbil-qa.aksw.org/gerbil/experiment?id=202111150022
 * ba-fr http://gerbil-qa.aksw.org/gerbil/experiment?id=202111150023
+
+## How to Cite
+
+To Be Done
+
+## Quick Links
+
+To Be Done
